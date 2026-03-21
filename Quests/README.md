@@ -1,16 +1,21 @@
 # LeetCode - Quests
 
-Quest-style learning path repository.
+Quest-style learning paths grouped by theme.
 
-## Current path
+## Paths
 
 - `Data Structures and Algorithms`
+- `Maths`
 
-## Covered themes
+## Data Structures and Algorithms themes
 
-- Arrays
+- Arrays (Array 1, Array 2)
 - Stack
 - Queue
 - Heap
 - Monotonic Stack
-- Assignments and mixed practice sets
+- Assignments I and II (mixed practice)
+
+## Maths themes
+
+- Arithmetic basic reasoning
