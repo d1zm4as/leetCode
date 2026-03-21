@@ -6,6 +6,8 @@ Quest-style learning paths grouped by theme.
 
 - `Data Structures and Algorithms`
 - `Maths`
+- `Offer Expeditoin Campaign`
+- `System & Software Design`
 
 ## Data Structures and Algorithms themes
 
@@ -19,3 +21,11 @@ Quest-style learning paths grouped by theme.
 ## Maths themes
 
 - Arithmetic basic reasoning
+
+## Offer Expeditoin Campaign themes
+
+- Interview Instance I
+
+## System & Software Design themes
+
+- Cache System Design Base

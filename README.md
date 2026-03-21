@@ -8,7 +8,7 @@ Personal LeetCode practice repository with multiple tracks and difficulty-based 
 - `LeetCode75`: guided LeetCode 75 track.
 - `DataStructure`: data structure study track.
 - `Programming Skills`: language and implementation drills.
-- `Quests`: themed paths (Data Structures and Algorithms, Maths).
+- `Quests`: themed paths (Data Structures and Algorithms, Maths, Offer Expeditoin Campaign, System & Software Design).
 - `Weekly Contest 490`: contest problem solutions.
 
 ## Languages in repo
