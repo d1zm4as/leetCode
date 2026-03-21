@@ -4,8 +4,8 @@ Easy-level LeetCode solutions.
 
 ## Snapshot
 
-- Around 70 files.
-- Primarily Python, with a small number of SQL/JavaScript/shell files.
+- 72 files.
+- Primarily Python, with a small number of SQL/JavaScript/bash files.
 
 ## Naming
 
