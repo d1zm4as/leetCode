@@ -4,8 +4,9 @@ Easy-level LeetCode solutions.
 
 ## Snapshot
 
-- 72 files.
-- Primarily Python, with a small number of SQL/JavaScript/bash files.
+- 77 solution files.
+- Languages: 73 Python, 2 SQL, 1 JavaScript, 1 Bash.
+- No subfolders.
 
 ## Naming
 

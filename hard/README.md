@@ -4,9 +4,10 @@ Hard-level LeetCode solutions.
 
 ## Snapshot
 
-- 2 Python solutions currently.
+- 2 solution files.
+- Languages: Python only.
 
 ## Current problems
 
-- `Maximum_score_of_a_node_sequence.py`
-- `medianOfSortedArrays.py`
+- `maximum_score_of_a_node_sequence.py`
+- `median_of_sorted_arrays.py`

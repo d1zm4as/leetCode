@@ -4,11 +4,10 @@ Medium-level LeetCode solutions.
 
 ## Snapshot
 
-- 16 files in this folder.
-- Mostly Python, with one Rust solution.
+- 20 solution files.
+- Languages: 19 Python, 1 Rust.
+- No subfolders.
 
-## Topics seen
+## Notes
 
-- Arrays and strings
-- Dynamic programming patterns
-- Binary and numeric transformations
+Filenames track problem titles and are not fully normalized.

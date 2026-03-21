@@ -2,6 +2,11 @@
 
 Solutions for problems solved from Weekly Contest 490.
 
+## Snapshot
+
+- 3 solution files.
+- Languages: Python only.
+
 ## Files
 
 - `count_sequences_k.py`

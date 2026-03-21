@@ -2,6 +2,12 @@
 
 Quest-style learning paths grouped by theme.
 
+## Snapshot
+
+- 26 solution files.
+- Languages: Python only.
+- Theme counts: Data Structures and Algorithms (19), Maths (4), Offer Expeditoin Campaign (1), System & Software Design (2).
+
 ## Paths
 
 - `Data Structures and Algorithms`
@@ -9,23 +15,16 @@ Quest-style learning paths grouped by theme.
 - `Offer Expeditoin Campaign`
 - `System & Software Design`
 
-## Data Structures and Algorithms themes
+## Subthemes with solutions
 
-- Arrays (Array 1, Array 2)
-- Stack
-- Queue
-- Heap
-- Monotonic Stack
-- Assignments I and II (mixed practice)
-
-## Maths themes
-
-- Arithmetic basic reasoning
-
-## Offer Expeditoin Campaign themes
-
-- Interview Instance I
-
-## System & Software Design themes
-
-- Cache System Design Base
+- `Data Structures and Algorithms/Array 1`
+- `Data Structures and Algorithms/Array 2`
+- `Data Structures and Algorithms/Assignment I`
+- `Data Structures and Algorithms/Assignment II`
+- `Data Structures and Algorithms/Heap`
+- `Data Structures and Algorithms/Monotonic Stack`
+- `Data Structures and Algorithms/Queue`
+- `Data Structures and Algorithms/Stack`
+- `Maths/Arithmetic_basic_reasoning`
+- `Offer Expeditoin Campaign/Interview Instance I`
+- `System & Software Design/Cache System Design Base`
