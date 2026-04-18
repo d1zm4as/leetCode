@@ -4,12 +4,12 @@ Personal LeetCode practice repository with multiple tracks and difficulty-based 
 
 ## Snapshot
 
-- 238 solution files.
-- Languages: 229 Python, 3 JavaScript, 3 Rust, 2 SQL, 1 C.
+- 239 solution files.
+- Languages: 230 Python, 3 JavaScript, 3 Rust, 2 SQL, 1 C.
 
 ## Main sections
 
-- `easy` (134 solutions)
+- `easy` (135 solutions)
 - `medium` (33 solutions)
 - `hard` (2 solutions)
 - `LeetCode75` (6 solutions)
